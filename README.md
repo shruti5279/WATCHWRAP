@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="./public/android-chrome-192x192.png" alt="MoviesPrix" width="100" />
-  <h2>MoviesPrix - Movies Website</h2>
-  <p>MoviesPrix is fully responsive website built using Next.js's appDir feature </p>
+    <img src="./public/android-chrome-192x192.png" alt="Watch Wrap" width="100" />
+  <h2>WatchWrap - Movies Website</h2>
+  <p>WAtchwrap is fully responsive website built using Next.js's appDir feature </p>
     <a href="https://moviesprix.netlify.app/" target="_blank">➥ Live Demo</a>
 </div>
 
